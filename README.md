@@ -16,7 +16,7 @@ definitions (especially if they're foreign), and code large completion.
 ### Current Projects
  
 Github profile organization, language portfolios, detailed READMEs per main 
-directory, Continuing a-py-a-day pushes
+directory, continuing a-py-a-day pushes
 
 ### Current Focus
 
