@@ -2,7 +2,7 @@
  
 - Python
 - Java
-- C++/C#
+- C#
 - Sh/Bash/Zsh
 - HTML/PHP/SQL
 
@@ -15,11 +15,5 @@ definitions (especially if they're foreign), and code large completion.
 
 ### Current Projects
  
-Github profile organization, language portfolios, detailed READMEs per main 
-directory, continuing a-py-a-day pushes
-
-### Current Focus
-
-Deeper understanding of git's functionality, machine learning through Python,
-realtime image recognition with iPhone
-
+- Virtual assistant using machine learning through PyTorch
+- Automated C# Twitter bot
