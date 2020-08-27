@@ -16,5 +16,4 @@ definitions (especially if they're foreign), and code large completion.
 ### Current Projects
  
 - Virtual assistant using machine learning through PyTorch
-- Automated C# Twitter bot
-- Begin C/C++ education
+- Learn Rust and its usefulness for machine learning
