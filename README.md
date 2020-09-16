@@ -9,9 +9,9 @@
 ### Workspace
 
 Console and Vim are my main workflow tools. For large projects I lean towards
-the JetBrains software suite (PyCharm, IDEA, and CLion), mainly for code
-optimization reminders, quicker error checking/debugging, navigating
-definitions (especially if they're foreign), and code large completion.
+the JetBrains software suite (PyCharm, IDEA, and CLion). I aim to always use
+the cutting edge when it comes to productivity and efficiency, so changes are
+bound to be made to my toolset to fit the project I'm working on.
 
 ### Current Projects
  
